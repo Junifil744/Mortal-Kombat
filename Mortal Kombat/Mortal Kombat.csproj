@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Mortal_Kombat</RootNamespace>
+    <Platforms>AnyCPU;ARM32</Platforms>
+  </PropertyGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mortal Kombat", "Mortal Kombat\Mortal Kombat.csproj", "{C6764F95-F22C-4292-B414-73020F47A8CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM32 = Debug|ARM32
+		Release|Any CPU = Release|Any CPU
+		Release|ARM32 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6764F95-F22C-4292-B414-73020F47A8CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6764F95-F22C-4292-B414-73020F47A8CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6764F95-F22C-4292-B414-73020F47A8CA}.Debug|ARM32.ActiveCfg = Debug|Any CPU
+		{C6764F95-F22C-4292-B414-73020F47A8CA}.Debug|ARM32.Build.0 = Debug|Any CPU
+		{C6764F95-F22C-4292-B414-73020F47A8CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6764F95-F22C-4292-B414-73020F47A8CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6764F95-F22C-4292-B414-73020F47A8CA}.Release|ARM32.ActiveCfg = Release|ARM32
+		{C6764F95-F22C-4292-B414-73020F47A8CA}.Release|ARM32.Build.0 = Release|ARM32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1937ED-FCF5-4004-8AFA-7CF47E4A2D15}
+	EndGlobalSection
+EndGlobal
