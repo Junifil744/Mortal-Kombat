@@ -1,2 +1,0 @@
-F:\Vidja Gaems\Mortal Kombat\Mortal Kombat\bin\Release\netcoreapp3.1\publish\win-x64\Mortal Kombat.pdb
-F:\Vidja Gaems\Mortal Kombat\Mortal Kombat\bin\Release\netcoreapp3.1\publish\win-x64\Mortal Kombat.exe
