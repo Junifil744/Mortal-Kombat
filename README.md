@@ -16,7 +16,11 @@ Also I HAD tried making the code prettier a bit using functions but pretty much 
 Win+R, type "Conhost", press enter. This is the old Windows 10 command prompt.
 Navigate to the .exe file and run it.
 If you do not know how to, heres a quick run down on it.
+
 DIR - Shows directories and files
+
 CD - Navigates to directory
+
 CD .. - Go back one directory
+
 Mortal.Kombat.exe - Launch the app when you are in the right directory
