@@ -24,3 +24,7 @@ CD - Navigates to directory
 CD .. - Go back one directory
 
 Mortal.Kombat.exe - Launch the app when you are in the right directory
+
+## "What if im just someone that comes here to hate on you so i find shitty code on you to show how bad at code you are?"
+Go ahead. This was literally my first ever attempt at using C# Console, you really aren't gonna prove much there.
+And this were your thoughts. Congratulations on even making it to the end of this wall of text!
