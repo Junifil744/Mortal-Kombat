@@ -1,3 +1,9 @@
+# DISCLAIMER
+Before you judge this project for sucking ass.<br>
+It does suck ass.<br>
+This was my first ever large scale C# project. Everyone's first code looks like ass.<br>
+Don't take this if you want proof of experience.<br>
+
 # Mortal Kombat
 Project based off what was meant to be a very simple homework about teaching randomness in C# Console. I did what I often do and very VERY much overcomplicated it. My first big work in coding. The name was simply the name of the homework. Not very fitting for the content, I know.
 
